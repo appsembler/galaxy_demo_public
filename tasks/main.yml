@@ -1,0 +1,4 @@
+---
+
+- name: public role demo
+  shell: echo just a simple command to demo
